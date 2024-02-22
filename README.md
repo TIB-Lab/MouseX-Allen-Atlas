@@ -17,7 +17,7 @@ Here we first provide a high resolution template with three contrasts: relaxomet
 ## ANNOTATIONS:
 Then, we provide the **MouseX DW-ALLEN** annotation corresponding to **Allen Mouse Brain Atlas** region organziation, and the corresponding Labels document with region-number assignation, with a total of 62 regions, for each of the three templates (both sexes, male only and female only). 
 
-![Gray and white matter regions](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/b16d7df3-fced-4ca0-8934-e020ac21c385)
+![Gray and white matter regions](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/ab6eb98c-efa1-446a-9b8d-20343da67fac)
 
 
 ## TWO-HEMISPHERE ANNOTATION:

@@ -21,6 +21,9 @@ For the T2W contrast, we provide templates created with
 ## ANNOTATIONS:
 Then, we provide the **MouseX DW-ALLEN** annotation corresponding to **Allen Mouse Brain Atlas** region organziation, and the corresponding Labels document with region-number assignation, with a total of 62 regions, for each of the three templates (both sexes, male only and female only). 
 
+![MouseX Atlas Annotations](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/b54940bc-b351-4605-9abf-9fad3473eb13)
+
+
 ![Gray and white matter regions](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/ab6eb98c-efa1-446a-9b8d-20343da67fac)
 
 

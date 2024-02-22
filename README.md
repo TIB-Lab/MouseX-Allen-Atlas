@@ -9,7 +9,11 @@ Overcoming sex bias in preclinical research needs not only including animals of 
 
 
 ## TEMPLATES: 
-Here we first provide a high resolution template with three contrasts: relaxometry T2W, and diffusion-based FA and MD contrasts. For the FA contrast, we provide templates created with
+Here we first provide a high resolution template with three contrasts: **relaxometry T2W**, and **diffusion-based FA and MD contrasts**. 
+![MouseX Atlas Templates](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/65a30537-2be7-4435-a016-f917c5a37bba)
+
+
+For the T2W contrast, we provide templates created with
   1) both sexes: find it in folder MouseX [MouseX](MouseX)
   2) one with only male subjects: find it in folder MouseX_male-only [MouseX_male-only](MouseX_female-only)
   3) one with only female: find it in folder MouseX_female-only [MouseX_female-only](MouseX_female-only)
@@ -22,6 +26,7 @@ Then, we provide the **MouseX DW-ALLEN** annotation corresponding to **Allen Mou
 
 ## TWO-HEMISPHERE ANNOTATION:
 For those experimenters needing to differentate each hemisphere, we provide the "MouseX-DW-ALLEN_AnnotationL-R", where We have maintained the right side with the original value, and the left side is now original value + 100.
-![MouseX-DW-ALLEN_AnnotationL-R](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/d18cf2c9-5781-4009-a1bf-b5e944d13c50)
-Find it in folder [MouseX](MouseX)
 
+![MouseX-DW-ALLEN_AnnotationL-R](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/a95e06ff-a8b9-4d7f-b131-3b4577626980)
+
+Find it in folder [MouseX](MouseX)

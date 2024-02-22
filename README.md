@@ -3,7 +3,7 @@
 
 _NOTE: new updated version of the Annotations are available from February 2024 on, if you had previously downloaded the files, we welcome you to replace them by the new version_
 
-Overcoming sex bias in preclinical research needs not only including animals of both sexes, but also developing proper tools to handle such data. This repositorie provides a novel DW-MRI mouse brain template and annotation created with the publically available Allen Brain Atlas, and including both sexes: the MouseX DW-ALLEN Atlas. 
+Overcoming sex bias in preclinical research needs not only including animals of both sexes, but also developing proper tools to handle such data. This repository provides a novel DW-MRI mouse brain template and annotation created with the publically available Allen Brain Atlas, and including both sexes: the **MouseX DW-ALLEN Atlas**. 
 
 ![MouseX Atlas generation](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/882e320b-70af-4401-ad9e-6d3e0de4da81)
 
@@ -27,7 +27,7 @@ Then, we provide the **MouseX DW-ALLEN** annotation corresponding to **Allen Mou
 ![Gray and white matter regions](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/ab6eb98c-efa1-446a-9b8d-20343da67fac)
 
 
-## TWO-HEMISPHERE ANNOTATION:
+### TWO-HEMISPHERE ANNOTATION:
 For those experimenters needing to differentate each hemisphere, we provide the "MouseX-DW-ALLEN_AnnotationL-R", where We have maintained the right side with the original value, and the left side is now original value + 100.
 
 ![MouseX-DW-ALLEN_AnnotationL-R](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/a95e06ff-a8b9-4d7f-b131-3b4577626980)

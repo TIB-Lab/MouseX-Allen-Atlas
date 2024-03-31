@@ -1,6 +1,8 @@
 # MouseX-DW-Allen-Atlas
 ## Sex matters: the MouseX DW-ALLEN Atlas for mice diffusion-weighted MR imaging
 
+_Find the published paper here:https://doi.org/10.1016/j.neuroimage.2024.120573_
+
 _NOTE: new updated version of the Annotations are available from February 2024 on, if you had previously downloaded the files, we welcome you to replace them by the new version_
 
 Overcoming sex bias in preclinical research needs not only including animals of both sexes, but also developing proper tools to handle such data. This repository provides a novel DW-MRI mouse brain template and annotation created with the publically available Allen Brain Atlas, and including both sexes: the **MouseX DW-ALLEN Atlas**. 

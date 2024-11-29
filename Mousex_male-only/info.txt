@@ -1,1 +1,1 @@
-Data generated with male-only subjects
+Here you can find Male-only Templates and their corresponding annotations for T2W and FA contrasts 

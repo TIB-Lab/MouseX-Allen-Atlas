@@ -28,6 +28,12 @@ Then, we provide the **MouseX DW-ALLEN** annotation corresponding to the **Allen
 
 ![Gray and white matter regions](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/ab6eb98c-efa1-446a-9b8d-20343da67fac)
 
+### DEMO DATA: parcelate your maps with MouseX 
+MouseX DW-ALLEN annotation can easily be moved to your experimental brain space using ANTs, find a demo script and demo data in folder [MouseX](Demo)
+
+![Registration_ilustration](https://github.com/user-attachments/assets/28a46b81-1783-45b5-8d27-cb3bb298a5e8)
+
+
 
 ### TWO-HEMISPHERE ANNOTATION:
 For those experimenters needing to differentate each hemisphere, we provide the "MouseX-DW-ALLEN_AnnotationL-R", where we have maintained the right side with the original value, and the left side is the original value + 100.

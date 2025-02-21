@@ -36,8 +36,8 @@ For those experimenters needing to differentate each hemisphere, we provide the 
 Find it in folder [MouseX](MouseX)
 
 
-## DEMO DATA: parcelate your maps with MouseX 
-MouseX DW-ALLEN annotation can easily be moved to your experimental brain space using ANTs, find a demo script and demo data in folder [Demo](Demo)
+## DEMO DATA: parcellate your maps with MouseX 
+MouseX DW-ALLEN annotation can easily be moved to your experimental brain space using ANTs. Find a demo script and demo data in folder [Demo](Demo)
 
 ![Registration_ilustration](https://github.com/user-attachments/assets/28a46b81-1783-45b5-8d27-cb3bb298a5e8)
 

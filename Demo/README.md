@@ -4,9 +4,9 @@ MouseX DW-ALLEN Annotation can easily be used to parcellate you own experimental
 
 1) Skull removal is needed for the registration, check our in-house automated brain extraction tool for rodents: SAMson  
 
-Read the preprint [here](https://doi.org/10.1101/2024.03.07.583982)  
+      _Read the preprint [here](https://doi.org/10.1101/2024.03.07.583982)_  
 
-Access the GitHub for SAMson [here](https://github.com/CanalsLab/SAMson)
+      _Access the GitHub for SAMson [here](https://github.com/CanalsLab/SAMson)_
 
 
 2) Follow the steps on demo.m, or run ANTs from the terminal

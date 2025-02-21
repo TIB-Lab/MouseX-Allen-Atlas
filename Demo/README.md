@@ -6,7 +6,6 @@ MouseX DW-ALLEN Annotation can easily be used to parcellate you own experimental
           Read the preprint [here](https://doi.org/10.1101/2024.03.07.583982)
           Acces the GitHub for SAMson [here](https://github.com/CanalsLab/SAMson)
   2) Follow the steps on demo.m, or run ANTs from the terminal
-  3) You can find demo data for three subjects, including the FA maps, the outputs of the registration, and the MouseX-Annotation
+  3) You can find demo data for three subjects in [mice1](mice1), [mice1](mice1), [mice1](mice1), including the FA maps, the outputs of the registration, and the MouseX-Annotation
 
-
-
+![Registration_ilustration](https://github.com/user-attachments/assets/21f49dd4-2b03-48f6-a125-f5059e36d239)

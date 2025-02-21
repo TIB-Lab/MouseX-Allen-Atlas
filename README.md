@@ -20,20 +20,13 @@ For the T2W contrast, we provide templates created with
   2) one with only male subjects: find it in folder MouseX_male-only [MouseX_male-only](MouseX_female-only)
   3) one with only female: find it in folder MouseX_female-only [MouseX_female-only](MouseX_female-only)
 
+
 ## ANNOTATIONS:
 Then, we provide the **MouseX DW-ALLEN** annotation corresponding to the **Allen Mouse Brain Atlas** region organization, and the corresponding Labels document with region-number assignation, with a total of 62 regions, for each of the three templates (both sexes, male only and female only). 
 
 ![MouseX Atlas Annotations](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/b54940bc-b351-4605-9abf-9fad3473eb13)
 
-
 ![Gray and white matter regions](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/ab6eb98c-efa1-446a-9b8d-20343da67fac)
-
-### DEMO DATA: parcelate your maps with MouseX 
-MouseX DW-ALLEN annotation can easily be moved to your experimental brain space using ANTs, find a demo script and demo data in folder [MouseX](Demo)
-
-![Registration_ilustration](https://github.com/user-attachments/assets/28a46b81-1783-45b5-8d27-cb3bb298a5e8)
-
-
 
 ### TWO-HEMISPHERE ANNOTATION:
 For those experimenters needing to differentate each hemisphere, we provide the "MouseX-DW-ALLEN_AnnotationL-R", where we have maintained the right side with the original value, and the left side is the original value + 100.
@@ -41,3 +34,16 @@ For those experimenters needing to differentate each hemisphere, we provide the 
 ![MouseX-DW-ALLEN_AnnotationL-R](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/a95e06ff-a8b9-4d7f-b131-3b4577626980)
 
 Find it in folder [MouseX](MouseX)
+
+
+## DEMO DATA: parcelate your maps with MouseX 
+MouseX DW-ALLEN annotation can easily be moved to your experimental brain space using ANTs, find a demo script and demo data in folder [Demo](Demo)
+
+![Registration_ilustration](https://github.com/user-attachments/assets/28a46b81-1783-45b5-8d27-cb3bb298a5e8)
+
+
+
+
+
+
+

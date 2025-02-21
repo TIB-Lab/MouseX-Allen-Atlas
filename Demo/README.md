@@ -10,11 +10,9 @@ MouseX DW-ALLEN Annotation can easily be used to parcellate you own experimental
 
 
 2) Follow the steps on demo.m, or run ANTs from the terminal
-3) You can find demo data for three subjects in [mice1](mice1), [mice2](mice2), [mice3](mice3), including the FA maps, the outputs of the registration, and the MouseX-Annotation
+3) You can find demo data for three subjects in [mice1](mice1), [mice2](mice2) and [mice3](mice3). It includes the FA maps, the outputs of the registration, and the final MouseX-Annotation
 
 ![Registration_ilustration](https://github.com/user-attachments/assets/21f49dd4-2b03-48f6-a125-f5059e36d239)
-
-
 
 
 

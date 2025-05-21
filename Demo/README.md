@@ -20,4 +20,4 @@ MouseX DW-ALLEN Annotation can easily be used to parcellate you own experimental
 
 Check the automated brain extraction tool at [SAMson GitHub](https://github.com/CanalsLab/SAMson)
 
-![SAMson](![image](https://github.com/user-attachments/assets/6f7177e1-e4c9-4ffa-bcd8-7261deed2686)
+![SAMson](https://github.com/user-attachments/assets/6f7177e1-e4c9-4ffa-bcd8-7261deed2686)

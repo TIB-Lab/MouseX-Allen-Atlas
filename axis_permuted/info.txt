@@ -1,1 +1,5 @@
+We provide a MouseX atlas in standard NIfTI orientation, together with an alternative version generated using a different axis convention commonly encountered in preclinical MRI processing pipelines.
 
+Both versions contain identical anatomical information; however, they differ in their affine transformation due to a permutation of anatomical axes (notably a swap between coronal and axial dimensions). As a consequence, the two versions are expressed in different voxel-to-world coordinate mappings and may not directly overlay without appropriate reorientation.
+
+Users should select the version that matches the orientation convention used in their preprocessing pipeline to ensure correct visualization and registration.

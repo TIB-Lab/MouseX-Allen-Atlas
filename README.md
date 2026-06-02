@@ -9,7 +9,6 @@ Overcoming sex bias in preclinical research not only needs the inclusion of anim
 
 ![MouseX Atlas generation](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/882e320b-70af-4401-ad9e-6d3e0de4da81)
 
-_NOTE: We provide two MouseX atlas versions corresponding to different axis conventions used in preclinical MRI pipelines. The difference arises from a permutation of coronal and axial axes, resulting in distinct affine representations. Users should select the version compatible with their data orientation prior to registration.Available in folder [axis_permuted](axis_permuted)_
 
 ## TEMPLATES: 
 Here, we first provide a high resolution template with three contrasts: **relaxometry T2W**, and **diffusion-based FA and MD contrasts**. 
@@ -43,8 +42,17 @@ MouseX DW-ALLEN annotation can easily be moved to your experimental brain space 
 ![Registration_ilustration](https://github.com/user-attachments/assets/28a46b81-1783-45b5-8d27-cb3bb298a5e8)
 
 
+## Coordinate system and voxel conventions
+We provide two MouseX atlas versions corresponding to different axis conventions commonly used in preclinical MRI pipelines. The difference arises from a permutation of anatomical axes (e.g. coronal/axial orientation), resulting in distinct affine definitions. Users should select the version that is consistent with their data orientation prior to registration.
 
+Available in: [axis_permuted](axis_permuted)
 
+In addition, the atlas is distributed in a harmonised working space designed for compatibility with standard neuroimaging preprocessing tools (e.g. ANTs, FSL), which are primarily optimised for human brain scale data.
 
+To ensure interoperability across tools, the template is provided in a scaled working resolution (~10× human-to-mouse brain scaling convention). Consequently, the voxel size reflects this working space and is not intended to represent the native acquisition resolution directly.
+
+If physical-space fidelity is required (e.g. quantitative measurements in native units), users should apply the corresponding inverse scaling factor to recover the original acquisition scale.
+
+This design preserves anatomical correspondence while allowing robust performance of standard preprocessing pipelines with default parameter settings.
 
 

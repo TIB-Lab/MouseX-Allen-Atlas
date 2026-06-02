@@ -9,6 +9,7 @@ Overcoming sex bias in preclinical research not only needs the inclusion of anim
 
 ![MouseX Atlas generation](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/882e320b-70af-4401-ad9e-6d3e0de4da81)
 
+_NOTE: We provide two MouseX atlas versions corresponding to different axis conventions used in preclinical MRI pipelines. The difference arises from a permutation of coronal and axial axes, resulting in distinct affine representations. Users should select the version compatible with their data orientation prior to registration.Available in folder [axis_permuted](axis_permuted)_
 
 ## TEMPLATES: 
 Here, we first provide a high resolution template with three contrasts: **relaxometry T2W**, and **diffusion-based FA and MD contrasts**. 

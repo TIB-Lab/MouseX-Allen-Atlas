@@ -6,7 +6,7 @@ Modified from the Allen Mouse Brain Atlas Common Coordinate Framework version 3 
 
 How to use it:
   1) **QuickNII**: select "ABAMouse-v3-2017"
-  2) **Nutil**: select "Reference Atlas: Custom" --> "Custom Reference Atlas: ABAHier2017-MouseX.csv"
+  2) **Nutil**: select "Reference Atlas: Custom" --> "Custom Reference Atlas: ABAHier2017-MouseX.xlsx"
 
 <img width="1770" height="1125" alt="image" src="https://github.com/user-attachments/assets/8e032fea-c344-4900-ad1f-cf197919e10a" />
 

@@ -5,7 +5,7 @@ _Find the published paper here:https://doi.org/10.1016/j.neuroimage.2024.120573_
 
 _NOTE: new updated version of the Annotations is available from February 2024 on, if you had previously downloaded the files, we welcome you to replace them with the new version_
 
-Overcoming sex bias in preclinical research not only needs the inclusion of animals of both sexes, but also developing of proper tools to handle such data. This repository provides a novel DW-MRI mouse brain template and annotation created with the publically available Allen Brain Atlas, and including both sexes: the **MouseX DW-ALLEN Atlas**. 
+Overcoming sex bias in preclinical research not only needs the inclusion of animals of both sexes, but also developing of proper tools to handle such data. This repository provides a novel DW-MRI mouse brain template and annotation created with the publicly available Allen Brain Atlas, and including both sexes: the **MouseX DW-ALLEN Atlas**. 
 
 ![MouseX Atlas generation](https://github.com/TIB-Lab/MouseX-Allen-Atlas/assets/147612644/882e320b-70af-4401-ad9e-6d3e0de4da81)
 
@@ -17,7 +17,7 @@ Here, we first provide a high resolution template with three contrasts: **relaxo
 
 For the T2W contrast, we provide templates created with
   1) both sexes: find it in folder MouseX [MouseX](MouseX)
-  2) one with only male subjects: find it in folder MouseX_male-only [MouseX_male-only](MouseX_female-only)
+  2) one with only male subjects: find it in folder MouseX_male-only [MouseX_male-only](MouseX_male-only)
   3) one with only female: find it in folder MouseX_female-only [MouseX_female-only](MouseX_female-only)
 
 
@@ -40,6 +40,17 @@ Find it in folder [MouseX](MouseX)
 MouseX DW-ALLEN annotation can easily be moved to your experimental brain space using ANTs. Find a demo script and demo data in folder [Demo](Demo)
 
 ![Registration_ilustration](https://github.com/user-attachments/assets/28a46b81-1783-45b5-8d27-cb3bb298a5e8)
+
+
+## MATCH HISTOLOGY: QUINT workflow adaptation:
+
+Validation efforts of MRI biophysical models require complementary techniques like histology capable of providing cell-specific ground truth across different brain regions, ages, or pathological conditions.
+To facilitate sharing a common annotation between different neuroimaging techniques, we here provide the MouseX parcellation adapted to be used in Nutil, as part of the QUINT workflow.
+Modified from the Allen Mouse Brain Atlas Common Coordinate Framework version 3 2017 provided, can be used with the “custom atlas” feature.
+
+Find it in : [QUINT_workflow-MouseX](QUINT_workflow-MouseX)
+
+<img width="1770" height="1125" alt="image" src="https://github.com/user-attachments/assets/8e032fea-c344-4900-ad1f-cf197919e10a" />
 
 
 ## Coordinate system and voxel conventions
